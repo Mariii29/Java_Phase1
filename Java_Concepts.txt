@@ -1,0 +1,6 @@
+JAVA CONCEPTS USED:
+Files
+Arrays
+For-each loop
+while loop
+Inheritance
